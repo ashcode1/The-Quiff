@@ -1,0 +1,11 @@
+.list {
+  padding-left: calc-em(10);
+}
+
+.list__item {
+  margin-bottom: calc-em(10);
+}
+
+.list__item--end {
+  margin-bottom: 0;
+}
